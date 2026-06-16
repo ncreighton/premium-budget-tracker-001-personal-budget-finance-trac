@@ -1,2 +1,29 @@
-# premium-budget-tracker-001-personal-budget-finance-trac
-The most comprehensive Notion budget tracker available. 6 connected databases with 15+ working formulas track every dollar you earn, spend, save, and invest. Includes Transactions (21 categories, receipt uploads, recurring flags), Monthly Budgets (auto-calculated remaining with traffic-light status indicators), Accounts &amp; Net Worth (assets vs debts
+# Personal Budget & Finance Tracker — Complete Notion System
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/4gMbJ17r1cYIe00avOd0y0X)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/4gMbJ17r1cYIe00avOd0y0X)
+- [Buy on Gumroad](https://journalscribe7.gumroad.com/l/acedgg)
+
